@@ -1,6 +1,6 @@
 # Data Science Capstone
 
-#Collisions in Seattle
+# Collisions in Seattle
 
 ## Introduction
 
